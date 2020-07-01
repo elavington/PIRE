@@ -1,7 +1,3 @@
 # PIRE data
 
-pi.py calculates nucleotide diversity using SNV frequency data. Please run: 
-
-python pi.py -h 
-
-on command line or shell for usage and arguments. Input data expectations are documented in the pi.py file and are subject to change in future versions.
+This repository contains variant data from Illumina sequencing of two different experiments as well as python code and Jupyter notebooks for exploring the data and running analyses. Data and python file requirements vary by notebook. Please either clone the entire repository or review the desired notebook(s) for requirements.
